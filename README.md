@@ -1,1 +1,11 @@
-This is a Zuri Internship task.
+# Steps
+
+To Activate Environment
+   ```
+   source zuri_env/bin/activate   
+   ```
+
+To deactivate environment:
+   ```
+   deactivate 
+   ```
